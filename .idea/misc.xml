@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/border.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/home_button.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/korosel_background.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/logo_background.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/search.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/shadow.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_scrolling.xml" value="0.264" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/koroselll.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/koroselll_round.xml" value="0.121" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.121" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/logo_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
