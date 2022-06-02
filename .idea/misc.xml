@@ -3,14 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_dark.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_footer.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_only_colorwhite.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_onlygrey.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_white.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/border.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/filter.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/home_button.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.214" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/korosel_background.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/logo_background.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/menu.xml" value="0.214" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/search.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/shadow.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_phone.xml" value="0.13451086956521738" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testing.xml" value="1.6" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testt.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_scrolling.xml" value="0.264" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/koroselll.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/koroselll_round.xml" value="0.121" />
