@@ -10,6 +10,7 @@
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_onlygrey.xml" value="0.214" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_white.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/border.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/buynow.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/filter.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/home_button.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.214" />
@@ -19,8 +20,15 @@
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/search.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/shadow.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_acerspin3.xml" value="0.2210144927536232" />
-        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_phone.xml" value="0.2" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_laptop.xml" value="0.2" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_phone.xml" value="0.264" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_asus.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_desk_acer_spin3.xml" value="0.22399150743099788" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_desk_acer_spin5.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_desk_asus_z13flip.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_desk_asus_z14flip.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_desk_lenovo_legioni5.xml" value="0.2" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_desk_lenovo_tpe14.xml" value="0.25" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_hp_oppo.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_laptop_acer.xml" value="0.2210144927536232" />
@@ -31,7 +39,7 @@
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_oppo2.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_rog5s.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testing.xml" value="1.6" />
-        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testt.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testt.xml" value="0.128" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_vivo.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_vivov20.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_vivoy12.xml" value="0.2210144927536232" />

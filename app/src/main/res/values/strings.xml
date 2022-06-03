@@ -91,6 +91,7 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="oppo_reno_7">OPPO RENO 7</string>
+
     <string name="oppo_reno_7_z_5g">OPPO RENO 7 Z 5G</string>
     <string name="vivo_Y12" />
     <string name="vivo_y12">VIVO Y12</string>
@@ -102,6 +103,127 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+
+    <!--    kategori laptop - acer - acer spin 3-->
+    <string name="tittleAcersplin3"><b>Thin, Light, and Versatile</b>
+        <font color="#878787">\nWhether you’re using the screen to
+        read, take notes, sketch, or share your work –it rotates with complete ease. When urgency
+        strikes, quickly modify the backlight (3 levels), caps lock, and speakers with a push of a button.
+        </font>
+        \n\n<b>Drawing and Writing on the Go</b>
+        <font color="#878787">\nYou’re going to want a laptop with a stylus to stay ready on the go. The dockable Acer
+        Active Stylus with Wacom AES 1.01,2 can be docked to recharge the stylus in just 15 seconds
+        for 90 minutes of unfettered use.
+        </font>
+
+    </string>
+
+    <string name="deskAcerSplin3"><b>Processor</b> <font color="#878787">Intel Core i5 (8th Gen) Processor</font>
+        \n<b>RAM</b> <font color="#878787">8 GB DDR4 RAM</font>
+        \n<b>Storage</b> <font color="#878787">1 TB HDD</font>
+        \n<b>Display</b> <font color="#878787">14" (35.56 cm) display, 1920 x 1080px</font></string>
+
+
+    <!--    kategori laptop - acer - acer spin 5-->
+    <string name="tittleAcersplin5"><b>TBrilliant 14” Touchscreen Display</b>
+        <font color="#878787">\nWhether you’re using the screen to read, take notes, sketch,
+            or share your work – it rotates with complete ease and feels easy on the eyes thanks
+            to the low-blue-light TÜV Certified2 display.
+        </font>
+        \n\n<b>Ready for Any Task</b>
+        <font color="#878787">\nBuilt on the Intel® Evo™ platform for high standards in performance
+            and battery life. Intel processors and graphics accelerate your productivity and editing
+            needs, giving you confidence for those everyday tasks.
+        </font>
+    </string>
+
+    <string name="deskAcerSplin5"><b>Processor</b> <font color="#878787">Intel Core i7-8550U (8th Gen)</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">512 GB SSD</font>
+        \n<b>Display</b> <font color="#878787">13.3 Inches</font>
+    </string>
+
+
+    <!--    kategori laptop - asus - asus zenbook 13 flip-->
+    <string name="tittleAsusz13flip"><b>Maximum display precision</b>
+        <font color="#878787">\nSeniman, fotografer, dan desainer akan menyukai apa yang ditawarkan
+            oleh tampilan NanoEdge yang dikombinasikan dengan ASUS Pen yang tersedia terpisah. Layar
+            sentuh sehalus sutra mendukung 4096 tingkat sensitivitas tekanan yang ditawarkan ASUS
+            Pen, memberikan pengalaman yang ditingkatkan yang menjadikan ZenBook Flip 13 pilihan
+            sempurna Anda untuk kreativitas kasual, membuat catatan, dan mengedit secara intuitif
+            di aplikasi yang didukung.
+        </font>
+        \n\n<b>Extreme battery life</b>
+        <font color="#878787">\nZenBook Flip 13 hadir dengan baterai berkapasitas tinggi yang
+            tidak akan mengecewakan Anda, betapapun lama dan beratnya hari kerja Anda. Teknologi
+            fast-charging memungkinkan Anda mengisi ulang hingga 60% kapasitas hanya dalam 49
+            menit, sehingga Anda dapat aktif dan bekerja lebih cepat dari sebelumnya. ASUS USB-C
+            Easy Charge memungkinkan Anda menggunakan berbagai pengisi daya USB-C standar untuk
+            pengisian daya yang nyaman saat bepergian.
+        </font>
+    </string>
+
+    <string name="deskAsusz13flip"><b>Processor</b> <font color="#878787">Intel Core i7 (8th Gen) Processor</font>
+        \n<b>RAM</b> <font color="#878787">	Intel Core i7 (8th Gen) Processor</font>
+        \n<b>Storage</b> <font color="#878787">	512 GB SSD</font>
+        \n<b>Display</b> <font color="#878787">	13.3" (33.78 cm) display, 1920 x 1080 px</font>
+    </string>
+
+
+    <!--    kategori laptop - asus - asus zenbook 14 flip-->
+    <string name="tittleAsusz14flip"><b>Unbounded beauty</b>
+        <font color="#878787">\nSDirancang untuk memberi Anda lebih banyak area layar dalam ruang
+            fisik yang lebih kecil, desain NanoEdge memiliki bezel yang lebih ramping di keempat
+            sisinya untuk membuat visual yang lebih mendalam, dengan sedikit gangguan untuk mata
+            Anda. Dilengkapi dengan fitur teknologi WideView untuk gambar yang jelas bahkan ketika
+            dilihat dari sudut ekstrim. ZenBook 14 memiliki tampilan yang tajam, jernih, resolusi
+            tinggi yang membuat visual apa pun terlihat terbaik, dengan sudut pandang lebar dan
+            warna yang jelas dan akurat.
+        </font>
+        \n\n<b>Extraordinary elegance</b>
+        <font color="#878787">\nNamun, tak satu pun dari gaya ZenBook tradisional yang hilang:
+            ada patern lingkaran logam ikonik yang terinspirasi dari Zen pada penutupnya dan
+            pilihan Royal Blue yang prestisius atau sentuhan akhir Icicle Silver yang canggih,
+            keduanya baru ditingkatkan dengan panel trim Rose Gold yang kontras di atas keyboard
+            untuk sentuhan ekstra mewah. Warna Royal Blue yang elegan terinspirasi oleh keindahan
+            matahari terbit keemasan yang menakjubkan di atas samudra biru tua. Icicle Silver yang
+            canggih mencerminkan kontras yang menakjubkan antara emas asli dan perak bulan,
+            pasangan serasi yang dirayakan dalam tema klasik ini.
+        </font>
+    </string>
+
+    <string name="deskAsusz14flip"><b>Processor</b> <font color="#878787"> Intel Core i7-10510U (10th Gen)</font>
+        \n<b>RAM</b> <font color="#878787">	16 GB</font>
+        \n<b>Storage</b> <font color="#878787">	512 GB SSD</font>
+        \n<b>Display</b> <font color="#878787">	14 Inches (35.56 cm)x</font>
+    </string>
+
+    <!--    kategori laptop - lenovo - legion 5i-->
+    <string name="tittleLenovolegion5i"><b>Streamlined power</b>
+        <font color="#878787">\nMenawarkan berbagai pilihan kinerja untuk semua level gamers,
+            Legion 5i memadukan fleksibilitas dengan kekuatan luar biasa, serta desain yang
+            stylish dan minimalis. Didukung oleh hingga 10th Gen Intel®Core™i7 H processors,
+            optional NVIDIA®GeForce GTX™graphics, dan banyak memori, tidak hanya Anda dapat
+            memainkan game AAA favorit Anda, tetapi mereka akan hidup kembali di layar Anda.
+        </font>
+        \n\n<b>Advanced Coldfront Cooling </b>
+        <font color="#878787">\nLegion 5i tetap tenang, sekeras apa pun Anda mendorongnya dengan
+            sistem Coldfront 2.0 yang mendinginkan dan menghilangkan panas melalui mekanisme
+            termal dua saluran dari 67 bilah kipas yang dilapisi polimer kristal cair dan pipa
+            tembaga. Ini artinya laptop Anda akan berjalan optimal, sehingga Anda selalu bisa
+            berada di puncak permainan Anda. Dan dengan Q Control 3.0 yang memungkinkan Anda untuk
+            memilih antara mode termal Quiet, Balance, dan Performance secara manual, Anda akan
+            serta merta berubah dari NOOBS menjadi seperti PRO. Juga, setiap laptop Legion memiliki
+            Dual Burn Support, mendorong CPU; GPU bersama untuk kinerja maksimal dalam game.
+        </font>
+    </string>
+
+    <string name="deskLenovolegion5i"><b>Processor</b> <font color="#878787"> Intel Core i7 11th Gen Core i7-11400H</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	256GB</font>
+        \n<b>Display</b> <font color="#878787">	16 Inches</font>
+    </string>
+
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>

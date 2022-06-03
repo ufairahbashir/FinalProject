@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".desk_acer_spin_3"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ViewFlipper
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:flipInterval="2500"
+            android:autoStart="true">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/korosel_background"
+                app:srcCompat="@drawable/asuss_z13flip1"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/korosel_background"
+                app:srcCompat="@drawable/asuss_z13flip2"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/korosel_background"
+                app:srcCompat="@drawable/asuss_z13flip3"/>
+        </ViewFlipper>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#F1F1F1">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="20dp"
+                android:background="@color/white">
+
+                <Button
+                    android:id="@+id/buynow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="@drawable/buynow"
+                    android:text="Buy Now"
+                    android:textColor="#2196F3" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:orientation="vertical">
+                    <RatingBar
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_marginBottom="-20dp"
+                        android:rating="4"
+                        android:scaleX="0.4"
+                        android:scaleY="0.4"
+                        android:theme="@style/RatingBar"
+                        android:transformPivotX="0dp"
+                        android:transformPivotY="0dp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:text="Rp14.500.000"
+                        android:textColor="#F44336"
+                        android:textSize="20dp" />
+                    <View
+                        style="@style/Divider.Horizontal"
+                        android:layout_width="137dp"
+                        android:layout_height="1dp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif"
+                        android:text="ZENBOOK 13 FLIP"
+                        android:textColor="@color/black"
+                        android:textSize="35dp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="UX333FA-A4116T Laptop"
+                        android:textColor="#878787" />
+                </LinearLayout>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:layout_marginBottom="20dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="30dp"
+                        android:text="@string/tittleAsusz13flip"
+                        android:textAlignment="viewStart"
+                        android:textColor="@color/black" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:layout_marginBottom="20dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="30dp"
+                        android:text="@string/deskAsusz13flip"
+                        android:textAlignment="viewStart"
+                        android:textColor="@color/black" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#112B3C">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:orientation="vertical"
+                    android:id="@+id/reviewtab">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:text="REVIEW"
+                        android:textSize="30dp"
+                        android:textAlignment="viewStart"
+                        android:textColor="@color/white" />
+                    <View
+                        style="@style/Divider.Horizontal"
+                        android:layout_marginVertical="5dp"
+                        android:layout_width="137dp"
+                        android:layout_height="1dp" />
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:boxBackgroundColor="#2CFFFFFF"
+                        app:boxBackgroundMode="outline"
+                        android:layout_marginBottom="5dp">
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="textPersonName"
+                            android:hint="Username"
+                            android:id="@+id/username"
+                            />
+                    </com.google.android.material.textfield.TextInputLayout>
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:boxBackgroundColor="#2CFFFFFF"
+                        app:boxBackgroundMode="outline"
+                        android:layout_marginBottom="20dp">
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="180dp"
+                            android:inputType="textPersonName"
+                            android:gravity="start"
+                            android:hint="Review"
+                            android:id="@+id/review"
+                            />
+                    </com.google.android.material.textfield.TextInputLayout>
+                </LinearLayout>
+                <Button
+                    android:id="@+id/btnreview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/buynow"
+                    android:text="Review"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

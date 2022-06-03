@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalProject">
         <activity
+            android:name=".desk_lenovo_tpe14"
+            android:exported="false" />
+        <activity
+            android:name=".desk_lenovo_legioni5"
+            android:exported="false" />
+        <activity
+            android:name=".desk_asus_z14flip"
+            android:exported="false" />
+        <activity
+            android:name=".desk_asus_z13flip"
+            android:exported="false" />
+        <activity
+            android:name=".desk_acer_spin5"
+            android:exported="false" />
+        <activity
+            android:name=".desk_acer_spin_3"
+            android:exported="false" />
+        <activity
             android:name=".all_laptop"
             android:exported="false" />
         <activity

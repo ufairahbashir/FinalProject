@@ -10,17 +10,18 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="45dp"
         android:src="@drawable/acer"/>
 
     <androidx.cardview.widget.CardView
         android:layout_width="178dp"
         android:layout_height="262dp"
         android:layout_gravity="center"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="30dp"
         android:elevation="10dp"
         app:cardBackgroundColor="@color/white"
-        app:cardCornerRadius="15dp">
+        app:cardCornerRadius="15dp"
+        android:id="@+id/AcerSpin3">
 
         <LinearLayout
             android:layout_width="164dp"
@@ -34,7 +35,8 @@
                 android:layout_width="148dp"
                 android:layout_height="160dp"
                 android:layout_marginVertical="20dp"
-                android:src="@drawable/acerspin3" />
+                android:src="@drawable/acerspin3"
+                android:id="@+id/logo_acerspin3"/>
 
             <TextView
                 android:layout_width="167dp"
@@ -55,7 +57,8 @@
         android:layout_marginTop="40dp"
         android:elevation="10dp"
         app:cardBackgroundColor="@color/white"
-        app:cardCornerRadius="15dp">
+        app:cardCornerRadius="15dp"
+        android:id="@+id/AcerSpin5">
 
         <LinearLayout
             android:layout_width="159dp"
@@ -69,7 +72,8 @@
                 android:layout_width="148dp"
                 android:layout_height="160dp"
                 android:layout_marginVertical="20dp"
-                android:src="@drawable/acerspin5" />
+                android:src="@drawable/acerspin5"
+                android:id="@+id/logo_acerspin5"/>
 
             <TextView
                 android:layout_width="178dp"

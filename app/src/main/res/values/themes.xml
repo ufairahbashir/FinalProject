@@ -19,6 +19,26 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#C5C5C5</item>
+        <item name="colorControlActivated">#FFD500</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:background">#BFBFBF</item>
+    </style>
+
+    <style name="Divider.Horizontal" parent="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item> // You can change thickness here.
+
+    </style>
+
+    <style name="Divider.Vertical" parent="Divider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
     <style name="Theme.FinalProject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.FinalProject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />

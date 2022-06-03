@@ -34,7 +34,8 @@
                 android:layout_width="148dp"
                 android:layout_height="160dp"
                 android:layout_marginVertical="20dp"
-                android:src="@drawable/zenbook_13_flip_oled" />
+                android:src="@drawable/zenbook_13_flip_oled"
+                android:id="@+id/zenbook_13_flip"/>
 
             <TextView
                 android:layout_width="167dp"
@@ -69,7 +70,8 @@
                 android:layout_width="148dp"
                 android:layout_height="160dp"
                 android:layout_marginVertical="20dp"
-                android:src="@drawable/zenbook_14_flip_oled" />
+                android:src="@drawable/zenbook_14_flip_oled"
+                android:id="@+id/zenbook_14_flip"/>
 
             <TextView
                 android:layout_width="178dp"

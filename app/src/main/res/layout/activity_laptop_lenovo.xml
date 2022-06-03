@@ -34,7 +34,8 @@
                 android:layout_width="148dp"
                 android:layout_height="160dp"
                 android:layout_marginVertical="20dp"
-                android:src="@drawable/legion_5i_pro" />
+                android:src="@drawable/legion_5i_pro"
+                android:id="@+id/lenovo_legion_51_pro"/>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -68,12 +69,13 @@
                 android:layout_width="148dp"
                 android:layout_height="160dp"
                 android:layout_marginVertical="20dp"
-                android:src="@drawable/lenovo_thinkpad_x1extreme" />
+                android:src="@drawable/lenovo_thinkpad_x1extreme"
+                android:id="@+id/lenovo_thinkpad_e14"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="30dp"
                 android:fontFamily="sans-serif-black"
-                android:text="THINKPAD X1"
+                android:text="THINKPAD E14"
                 android:textColor="@color/black"
                 android:textSize="15sp"
                 android:textStyle="bold" />
