@@ -37,7 +37,7 @@ ImageView selengkapnya1;
         selengkapnya.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(home.this,asus.class));
+                startActivity(new Intent(home.this,all_phone.class));
             }
         });
         laptoplenovo = findViewById(R.id.laptoplenovo);
