@@ -10,6 +10,48 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalProject">
         <activity
+            android:name=".all_laptop"
+            android:exported="false" />
+        <activity
+            android:name=".acerspin3"
+            android:exported="false" />
+        <activity
+            android:name=".rog5s"
+            android:exported="false" />
+        <activity
+            android:name=".zenfone5s"
+            android:exported="false" />
+        <activity
+            android:name=".vivov20"
+            android:exported="false" />
+        <activity
+            android:name=".vivoy12"
+            android:exported="false" />
+        <activity
+            android:name=".oppo2"
+            android:exported="false" />
+        <activity
+            android:name=".oppo1"
+            android:exported="false" />
+        <activity
+            android:name=".laptop_acer"
+            android:exported="false" />
+        <activity
+            android:name=".laptop_asus"
+            android:exported="false" />
+        <activity
+            android:name=".hp_oppo"
+            android:exported="false" />
+        <activity
+            android:name=".laptop_lenovo"
+            android:exported="false" />
+        <activity
+            android:name=".asus"
+            android:exported="false" />
+        <activity
+            android:name=".Vivo"
+            android:exported="false" />
+        <activity
             android:name=".all_phone"
             android:exported="false" />
         <activity

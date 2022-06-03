@@ -7,7 +7,7 @@
     android:clickable="true"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="#fff"
+    android:background="#FFFFFF"
     android:contextClickable="true"
     android:gravity="center"
     android:id="@+id/homecreen">
@@ -18,6 +18,5 @@
         android:layout_height="230dp"
         android:background="@drawable/logo_background"
         app:srcCompat="@drawable/logoaa" />
-
 
 </LinearLayout>
