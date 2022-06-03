@@ -3,36 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_acerspin3.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_laptop.xml" value="0.165625" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_phone.xml" value="0.22" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_asus.xml" value="0.14666666666666667" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_home.xml" value="0.22" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_hp_oppo.xml" value="0.165625" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_laptop_acer.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_laptop_asus.xml" value="0.12092391304347826" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_laptop_lenovo.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_oppo.xml" value="0.22" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_oppo1.xml" value="0.22" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_oppo2.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_opporenotujuh.xml" value="0.13333333333333333" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_rog5s.xml" value="0.165625" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testt.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_vivo.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_vivov20.xml" value="0.165625" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_vivoy12.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_zenfone5s.xml" value="0.22" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/content_opporeno7.xml" value="0.1796875" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_first.xml" value="0.1796875" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_dark.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_footer.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_only_colorwhite.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_onlygrey.xml" value="0.214" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/bg_white.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/border.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/filter.xml" value="0.121" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/home_button.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.214" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/korosel_background.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/logo_background.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/menu.xml" value="0.214" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/search.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/shadow.xml" value="0.2105" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_all_phone.xml" value="0.13451086956521738" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testing.xml" value="1.6" />
+        <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_testt.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_scrolling.xml" value="0.264" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/koroselll.xml" value="0.2105" />
         <entry key="..\:/Users/ufairah bashir/AndroidStudioProjects/FinalProject/app/src/main/res/mipmap-anydpi-v26/koroselll_round.xml" value="0.121" />
