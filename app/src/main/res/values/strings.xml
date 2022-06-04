@@ -227,6 +227,96 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Kategori hp oppo reno 7 -->
+    <string name="tittlereno7"><b>Ultra-Sensing Selfie with IMX709</b>
+        <font color="#878787">\nExclusively designed by OPPO and built with Sony hardware,the IMX709 front camera image sensor boasts higher levels of light capturing abilities.
+            More light intake allows you to capture bright and clear images.
+        </font>
+        \n\n<b>Ultra-Slim Retro Design </b>
+        <font color="#878787">\nThe flat-edged frame and camera module stick to the classical aesthetic. But due attention is also paid to the requirements of modern life, as the ultra-slim design makes hours of holding a pleasure.
+        </font>
+    </string>
+    <string name="deskreno7"><b>Display</b> <font color="#878787">6.43 inches, 99.8 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	128-256 GB</font>
+        \n<b>Camera</b> <font color="#878787">	32 MP, f/2.4, 24mm (wide), 1/2.74", 0.8µm</font>
+    </string>
+
+    <!-- Kategori hp oppo reno 7 5G -->
+    <string name="tittlereno75G"><b>Bokeh Flare - Potrait Video</b>
+        <font color="#878787">\nBersiaplah untuk merekam video ala DSLR impian Anda dengan Reno7 5G.
+            Dikombinasikan dengan Smart Skin Tone Protection AI spesial OPPO, baik dengan kamera depan atau belakang, saat siang atau malam, subjek video Anda akan selalu terlihat menonjol dengan latar belakang bokeh yang indah.
+        </font>
+        \n\n<b>Ultra Steady Video</b>
+        <font color="#878787">\nSaat Anda ingin merekam pendakian pagi Anda dengan kamera selfie, atau menangkap matahari terbenam dengan kamera belakang, video Anda dapat selalu stabil seperti seorang profesional.
+        </font>
+    </string>
+
+    <string name="deskreno75G"><b>Display</b> <font color="#878787">6.43 inches, 99.8 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	128 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.7, 26mm (wide), PDAF</font>
+    </string>
+
+    <!-- Kategori hp rog 5s-->
+    <string name="tittlerog5s"><b>Dare To Rule</b>
+        <font color="#878787">\nDelivering increased airflow directly to hotspots on the back cover of ROG Phone 5s, the AeroActive Cooler 5 clip-on external cooling fan can lower the surface temperature near the CPU by up to a stunning 15°C4. It also has two extra physical buttons to allow a genuine console-like control experience.
+        </font>
+        \n\n<b>Dare To Play</b>
+        <font color="#878787">\nThe monster 6000 mAh1 battery inside ROG Phone 5s combining with a 65-watt HyperCharge adapter is a great combo for mobile gamers to play on-the-go. Additionally, the charging features such as steady charging which allows control of the charging speeds and bypass charging for not charing the battery while gaming, all enable better battery performance and prolonged battery lifespan.
+        </font>
+    </string>
+    <string name="deskrog5s"><b>Display</b> <font color="#878787">6.78 inches, 109.5 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	12 GB</font>
+        \n<b>Storage</b> <font color="#878787">	256 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.8, 26mm (wide), 1/1.73", 0.8µm, PDAF</font>
+    </string>
+
+    <!-- Kategori hp vivo v20 -->
+    <string name="tittlevivov20"><b>The Clarity and Focus You Want</b>
+        <font color="#878787">\nHasil potret yang kaya akan warna dan ketajaman. Ultra HD pada 44MP Eye Autofocus mampu menangkap detail yang kompleks, dan dapat menghasilkan foto zoom yang sangat memukau ketika diabadikan.
+        </font>
+        \n\n<b>Reimagine The Night</b>
+        <font color="#878787">\nPotret malam yang tersembunyi dengan Super Night Mode yang didukung Tripod Night mode pada V20 2021 juga mampu meningkatkan stabilitas dan pencahayaan untuk membuat fotografi malam dengan hasil yang menakjubkan. Fitur fotografi lainnya termasuk: algoritma AI Noise cancellation, yang meningkatkan hasil natural foto; dan algoritma Sky Divider yang secara mulus memisahkan latar belakang fotomu dalam sentuhan otentik.
+        </font>
+    </string>
+
+    <string name="deskvivov20"><b>Display</b> <font color="#878787">6.44 inches, 100.1 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	8 GB</font>
+        \n<b>Storage</b> <font color="#878787">	128 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.9, 26mm (wide), 1/1.72", 0.8µm, PDAF</font>
+    </string>
+
+    <!-- Kategori hp vivo y12 -->
+    <string name="tittlevivoy12"><b>Ultra All Screen Display</b>
+        <font color="#878787">\nTampilan Y12 berukuran 6,35 inci dan rasio layar 19,3:9 dengan desain Ultra All Screen. Bezel yang sangat tipis di seluruh sisi membuat rasio layar-ke-bodi mencapai hingga 89% sehingga memberikan tampilan unggulan. Kini, Anda dapat menikmati tampilan yang lebih luas, serta mudah dikendalikan hanya dengan satu tangan berkat adanya gesture control yang didesain khusus.
+        </font>
+        \n\n<b>AI Super Wide-Angle Camera</b>
+        <font color="#878787">\nAI Super Wide-Angle Camera pada Y12 dapat memperluas pandangan Anda hingga 120°, sehingga Anda dapat menangkap lebih banyak pemandangan, teman, serta gambar yang mengesankan.
+        </font>
+    </string>
+    <string name="deskvivoy12"><b>Display</b> <font color="#878787">6.35 inches, 99.6 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	4 GB</font>
+        \n<b>Storage</b> <font color="#878787">	64 GB</font>
+        \n<b>Camera</b> <font color="#878787">	13 MP, f/2.2, PDAF</font>
+    </string>
+
+    <!-- Kategori hp asus zenfone 8 -->
+    <string name="tittlezenfone"><b>Big On Performance. Compact In Size</b>
+     <font color="#878787">\n
+         Zenfone 8 adalah kombinasi performa super dengan kemasan compact dan mudah dioperasikan, kombinasi fitur lengkap dengan ukuran yang pas di kantong.
+         Zenfone 8 akan menawarkan kekuatan dari Qualcomm® Snapdragon™ 888 5G Mobile Platform, layar amoled super jernih 120 Hz untuk kualitas visual yang mengagumkan, baterai 4000 mAh dengan daya tahan panjang untuk bekerja atau bermain tanpa henti, dan sistem kamera pro-grade lengkap dengan sensor dari Sony.
+         Singkatnya, Zenfone 8 berperforma luar biasa, terlihat luar biasa, dan terasa luar biasa! </font>
+    </string>
+    <string name="deskzenfone"><b>Display</b> <font color="#878787">5.9 inches, 84.0 cm2</font>
+        \n<b>RAM</b> <font color="#878787">	16 GB</font>
+        \n<b>Storage</b> <font color="#878787">	256 GB</font>
+        \n<b>Camera</b> <font color="#878787">	64 MP, f/1.8, 26mm (wide), 1/1.73", 0.8µm, PDAF, OIS</font>
+    </string>
+
+
     ASUS ZENFONE 5S
+
 
 </resources>

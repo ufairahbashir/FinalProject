@@ -1,199 +1,216 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".oppo2"
-    android:orientation="vertical"
+    tools:context=".desk_acer_spin_3"
     android:background="@color/white">
 
-    <ScrollView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="706dp"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
+        <ViewFlipper
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:flipInterval="2500"
+            android:autoStart="true">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                android:background="@drawable/korosel_background"
+                app:srcCompat="@drawable/reno7z1" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/korosel_background"
+                app:srcCompat="@drawable/reno7z3"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/korosel_background"
+                app:srcCompat="@drawable/reno7z2"/>
+        </ViewFlipper>
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="810dp"
-            android:orientation="vertical">
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#F1F1F1">
 
-            <ViewFlipper
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:autoStart="true"
-                android:flipInterval="2500">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="20dp"
+                android:background="@color/white">
 
-                <ImageView
+                <Button
+                    android:id="@+id/buynow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="@drawable/buynow"
+                    android:text="Buy Now"
+                    android:textColor="#2196F3" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:orientation="vertical">
+
+                    <RatingBar
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_marginBottom="-20dp"
+                        android:rating="4.9"
+                        android:scaleX="0.4"
+                        android:scaleY="0.4"
+                        android:theme="@style/RatingBar"
+                        android:transformPivotX="0dp"
+                        android:transformPivotY="0dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:text="Rp5.999.000"
+                        android:textColor="#F44336"
+                        android:textSize="20dp" />
+
+                    <View
+                        style="@style/Divider.Horizontal"
+                        android:layout_width="137dp"
+                        android:layout_height="1dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif"
+                        android:text="OPPO RENO 7 5G"
+                        android:textColor="@color/black"
+                        android:textSize="35dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CPH2371 Smartphone"
+                        android:textColor="#878787" />
+                </LinearLayout>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:layout_marginBottom="20dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="30dp"
+                        android:text="@string/tittlereno75G"
+                        android:textAlignment="viewStart"
+                        android:textColor="@color/black" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:layout_marginBottom="20dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginVertical="30dp"
+                        android:text="@string/deskreno75G"
+                        android:textAlignment="viewStart"
+                        android:textColor="@color/black" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#112B3C">
+                <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@drawable/korosel_background"
-                    app:srcCompat="@drawable/reno7z1" />
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@drawable/korosel_background"
-                    app:srcCompat="@drawable/reno7z3" />
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@drawable/korosel_background"
-                    app:srcCompat="@drawable/reno7z2" />
-            </ViewFlipper>
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:fontFamily="@font/meilandgorgeous"
-                android:gravity="center"
-                android:text="OPPO RENO 7Z 5G"
-                android:textColor="@color/black"
-                android:textSize="28sp"
-                android:textStyle="bold" />
-
-            <ImageView
-                android:layout_width="82dp"
-                android:layout_height="89dp"
-                android:layout_gravity="center"
-                android:layout_marginTop="20dp"
-                android:src="@drawable/opporeno7z5g" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="20dp"
-                android:text="Display"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="6.43' | 1080 x 2400 pixels"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="5dp"
-                android:text="Camera"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="64 MP (Photo) | 1080p (Video)"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="5dp"
-                android:text="Memory"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="128 GB"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="5dp"
-                android:text="RAM"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="8 GB"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="5dp"
-                android:text="Battery"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="4500 mAh | Fast Charging 33 W"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="5dp"
-                android:text="Colors"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="Black | Rainbow"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="5sp"
-                android:layout_marginTop="5dp"
-                android:text="Operating Systems"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="30sp"
-                android:layout_marginTop="5dp"
-                android:fontFamily="@font/alodiya"
-                android:text="Android 12, ColorOS 12.1"
-                android:textColor="@color/black"
-                android:textStyle="italic" />
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="20dp"
+                    android:orientation="vertical"
+                    android:id="@+id/reviewtab">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:text="REVIEW"
+                        android:textSize="30dp"
+                        android:textAlignment="viewStart"
+                        android:textColor="@color/white" />
+                    <View
+                        style="@style/Divider.Horizontal"
+                        android:layout_marginVertical="5dp"
+                        android:layout_width="137dp"
+                        android:layout_height="1dp" />
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:boxBackgroundColor="#2CFFFFFF"
+                        app:boxBackgroundMode="outline"
+                        android:layout_marginBottom="5dp">
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="textPersonName"
+                            android:hint="Username"
+                            android:id="@+id/username"
+                            />
+                    </com.google.android.material.textfield.TextInputLayout>
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:boxBackgroundColor="#2CFFFFFF"
+                        app:boxBackgroundMode="outline"
+                        android:layout_marginBottom="20dp">
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="180dp"
+                            android:inputType="textPersonName"
+                            android:gravity="start"
+                            android:hint="Review"
+                            android:id="@+id/review"
+                            />
+                    </com.google.android.material.textfield.TextInputLayout>
+                </LinearLayout>
+                <Button
+                    android:id="@+id/btnreview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/buynow"
+                    android:text="Review"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
         </LinearLayout>
-    </ScrollView>
-</LinearLayout>
-
+    </LinearLayout>
+</ScrollView>
