@@ -201,12 +201,16 @@
                             />
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>
+
                 <Button
                     android:id="@+id/btnreview"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentRight="true"
-                    android:layout_margin="20dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
                     android:background="@drawable/buynow"
                     android:text="Review"
                     android:textColor="@color/white" />
