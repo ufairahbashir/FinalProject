@@ -4,9 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".desk_acer_spin_3"
     android:background="@color/white"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    tools:context=".oppo1">
+
+
 
     <ScrollView
         android:layout_width="match_parent"
@@ -174,17 +176,20 @@
                             android:textAlignment="viewStart"
                             android:textColor="@color/white"
                             android:textSize="30dp" />
+
                         <View
                             style="@style/Divider.Horizontal"
                             android:layout_width="137dp"
                             android:layout_height="1dp"
                             android:layout_marginVertical="5dp" />
+
                         <com.google.android.material.textfield.TextInputLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="5dp"
                             app:boxBackgroundColor="#2CFFFFFF"
                             app:boxBackgroundMode="outline">
+
                             <EditText
                                 android:id="@+id/username"
                                 android:layout_width="match_parent"
@@ -192,12 +197,14 @@
                                 android:hint="Username"
                                 android:inputType="textPersonName" />
                         </com.google.android.material.textfield.TextInputLayout>
+
                         <com.google.android.material.textfield.TextInputLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="5dp"
                             app:boxBackgroundColor="#2CFFFFFF"
                             app:boxBackgroundMode="outline">
+
                             <EditText
                                 android:id="@+id/review"
                                 android:layout_width="match_parent"
@@ -206,11 +213,23 @@
                                 android:hint="Review"
                                 android:inputType="textLongMessage" />
                         </com.google.android.material.textfield.TextInputLayout>
+
                         <View
                             style="@style/Divider.Horizontal"
                             android:layout_width="137dp"
                             android:layout_height="1dp"
                             android:layout_marginVertical="10dp" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/white"
+                            android:orientation="vertical">
+                            <androidx.recyclerview.widget.RecyclerView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/recycleview"/>
+                        </LinearLayout>
                     </LinearLayout>
 
                     <Button
@@ -229,34 +248,7 @@
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/white"
-        android:orientation="vertical"
-        android:layout_margin="20dp">
 
-        <TextView
-            android:id="@+id/userreview"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginVertical="1dp"
-            android:hint="UserName"
-            android:text=""
-            android:textStyle="bold" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text=""
-            android:hint="UserName"
-            android:id="@+id/userkomentar"/>
 
-        <androidx.recyclerview.widget.RecyclerView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/recycler_view">
-
-        </androidx.recyclerview.widget.RecyclerView>
-    </LinearLayout>
 </LinearLayout>
 

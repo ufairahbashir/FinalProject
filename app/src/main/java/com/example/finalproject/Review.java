@@ -4,6 +4,10 @@ public class Review {
     String komentar;
     String nama_user;
 
+    public Review () {
+
+    }
+
     public Review(String komentar, String nama_user) {
         this.komentar = komentar;
         this.nama_user = nama_user;
